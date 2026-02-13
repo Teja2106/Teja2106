@@ -4,10 +4,11 @@ I'm a **Full-Stack Developer** with a strong specialization in **backend develop
 ---
 
 ## What I Do
-- Build **end-to-end web applications**, specializing in backend systems
-- Architect **scalable, high-performance APIs and services**
-- Apply **security-first principles** across application architecture
-- Perform **web application penetration testing** to identify and mitigate vulnerabilities
+- **Build secure, production-grade web applications** with end-to-end architecture, from frontend development to scalable backend APIs.
+- **Architect high-performance systems** that handle thousands of concurrent users with zero downtime through optimized database queries, caching strategies and load balancing.
+- **Implement security-first development practices**, conducting penetration testing, vulnerability assessments and secure reviews to identiry and remediate security risks.
+- **Apply DevOps best practices** using Docker, Kubernetes, Nginx and CI/CD pipelines for reliable deployment and infrastructure management.
+- **Perform web application penetration testing** using industry-standard tools (Burpsuite, Nmap, Metasploit, Wireshark, etc) to identify vulnerabilities and strengthen application security.
 
 ---
 
@@ -33,10 +34,10 @@ I'm a **Full-Stack Developer** with a strong specialization in **backend develop
 ---
 
 ## Currently Exploring
-- Advanced backend scalability patterns
-- Secure system design
-- Offensive security techniques
-- Network-level vulnerabilities
+- Advanced backend scalability and distributed system architecture
+- Offensive security techniques OWASP Top10 vulnerabilities
+- Network-level security: VPNs, network protocols and infrastructure hardening
+- Cloud-native development with containerization and orchestration
 
 ---
 
